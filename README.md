@@ -4,4 +4,4 @@
 <br/>*Powered by GitHub Pages.*
 
 ## Table of Contents
-Click [here](https://riwhale.github.io/dev/contents.html).
+[Click here](https://riwhale.github.io/dev/contents.html).

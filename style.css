@@ -1,0 +1,27 @@
+
+/* includes alternating gray and white with on-hover color */
+
+.livedata {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 1px solid silver;
+
+}
+
+.livedata td, th {
+    padding: 5px;
+}
+
+.livedata tr:nth-child(even) {
+    background: #F1F1F1;
+}
+
+.livedata tr:hover {
+    background: silver;
+    cursor: pointer;
+}
+
+.livedata tbody tr:nth-child(1) {
+    background: yellow !important;
+}
